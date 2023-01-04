@@ -1,0 +1,7 @@
+logLevel: "info"
+database:
+  name: "contentmanager"
+  host: "psql"
+  port: 5432
+  user: "contentmanager"
+  password: "QEU2zYILBoMAH26Q"
